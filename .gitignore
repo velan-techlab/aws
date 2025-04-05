@@ -1,6 +1,7 @@
 **/*.tfstate.backup
 **/*.tfstate
 **/*.terraform.lock.hcl
+**/.DS_Store
 
 # Local .terraform directories
 **/.terraform/*
