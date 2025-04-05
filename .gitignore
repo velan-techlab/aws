@@ -1,0 +1,5 @@
+*/*.tfstate.backup
+*/*.tfstate
+.DS_Store
+
+01-vpcpeering/.terraform/*
